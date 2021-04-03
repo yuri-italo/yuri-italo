@@ -1,6 +1,6 @@
 <h1>👋 Hi there, I’m Yuri Italo.</h1>
 <p align="center">
-  <img src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEakNmGpWk&#x2F;view?utm_content=DAEakNmGpWk&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://github.com/yuri-italo/yuri-italo/blob/bf441bd850326bc21e0f15c6ee5c2e604c2f0c96/intro-card.png" width="100%">
 </p>
 - 👀 I’m interested in 
 - 🌱 I’m currently learning ...
