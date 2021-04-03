@@ -13,12 +13,12 @@ My name is Yuri Italo, I live in Belo Horizonte, Minas Gerais, currently I am st
 - Taking online courses about Java, HTML5, CSS3, JavaScript  
 - Find a new job
 
-#### :muscle: Things I am challenging myself with:
+## :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
 - Coding at least 4 hours a day
 - Improving my CV with some education apart from university
 
-## Reach me 
+## 📫 Reach me 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yuri-italo/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/yuri_italo/)
 
