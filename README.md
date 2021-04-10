@@ -11,7 +11,7 @@ My name is Yuri Italo, I live in Belo Horizonte, Minas Gerais, currently I am st
 ## 🌱 Things I am currently working on: 
 - Finish my Information System degree 
 - Taking online courses about Java, HTML5, CSS3, JavaScript  
-- Find a new job
+- Finding a new job
 
 ## :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
