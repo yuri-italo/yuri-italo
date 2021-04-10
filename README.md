@@ -21,5 +21,3 @@ My name is Yuri Italo, I live in Belo Horizonte, Minas Gerais. Currently, I am s
 
 #### :muscle: My goal is to be better than I was yesterday!
 <hr>
-
-<h1 align="center">Thanks for stopping by! <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'><h1>
