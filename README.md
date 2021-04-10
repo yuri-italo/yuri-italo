@@ -6,7 +6,7 @@
 <h1>Hi there, WELCOME to my github! 👋</h1>
 
 ## About me :mortar_board:
-My name is Yuri Italo, I live in Belo Horizonte, Minas Gerais, currently I am studying Information Systems at <a href="https://newtonpaiva.br">Centro Universitário Newton Paiva</a>. Very early in my life, I started to fall in love with technology. This love has helped me develop a very good technological mindset, and gave me the curiosity to learn more.<br> I am in competition with no one but myself. My goal is to be better than I was yesterday. **This is my journey!**
+My name is Yuri Italo, I live in Belo Horizonte, Minas Gerais, currently I am studying Information Systems at <a href="https://newtonpaiva.br">Centro Universitário Newton Paiva</a>. Very early in my life, I started to fall in love with technology. This love has helped me develop a very good technological mindset, and gave me the curiosity to learn more.<br> 
 
 ## 🌱 Things I am currently working on: 
 - Finish my Information System degree 
