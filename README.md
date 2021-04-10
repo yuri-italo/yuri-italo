@@ -1,9 +1,8 @@
+<h2>Hi there! WELCOME to my github 👋</h2>
+
 <p align="center">
   <img src="https://github.com/yuri-italo/yuri-italo/blob/bf441bd850326bc21e0f15c6ee5c2e604c2f0c96/intro-card.png" width="70%">
 </p>
-
-
-<h2>Hi there! WELCOME to my github 👋</h2>
 
 ### About me :mortar_board:
 My name is Yuri Italo, I live in Belo Horizonte, Minas Gerais. Currently, I am studying Information Systems at <a href="https://newtonpaiva.br">Centro Universitário Newton Paiva</a>. Very early in my life, I started to fall in love with technology. This love has helped me develop a very good technological mindset, and gave me the curiosity to learn more.<br> 
