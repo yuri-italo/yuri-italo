@@ -6,7 +6,7 @@
 <h1>Hi there, WELCOME to my github! 👋</h1>
 
 ## About me :mortar_board:
-My name is Yuri Italo, I live in Belo Horizonte, Minas Gerais, currently I am studying Information Systems at <a href="https://newtonpaiva.br">Centro Universitário Newton Paiva</a>. Very early in my life, I started to fall in love with technology. This love has helped me develop a very good technological mindset, and gave me the curiosity to learn more.<br> 
+My name is Yuri Italo, I live in Belo Horizonte, Minas Gerais. Currently, I am studying Information Systems at <a href="https://newtonpaiva.br">Centro Universitário Newton Paiva</a>. Very early in my life, I started to fall in love with technology. This love has helped me develop a very good technological mindset, and gave me the curiosity to learn more.<br> 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuri-italo)](https://github.com/yuri-italo/github-readme-stats)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-italo)](https://github.com/yuri-italo/github-readme-stats)
