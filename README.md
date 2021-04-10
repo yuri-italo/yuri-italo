@@ -17,7 +17,9 @@ My name is Yuri Italo, I live in Belo Horizonte, Minas Gerais. Currently, I am s
 
 ### 📫 Reach me 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yuri-italo/)
+<hr>
 
 #### :muscle: My goal is to be better than I was yesterday!
+<hr>
 
-<h1>Thanks for stopping by! <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'><h1>
+<h1 align="center">Thanks for stopping by! <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'><h1>
