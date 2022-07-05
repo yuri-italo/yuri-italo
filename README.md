@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/yuri-italo/yuri-italo/blob/bf441bd850326bc21e0f15c6ee5c2e604c2f0c96/intro-card.png" width="70%">
+  <img src="https://github.com/yuri-italo/yuri-italo/blob/main/intro-card.png?raw=true">
 </p>
 
 ### 📫 Contato 
