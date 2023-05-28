@@ -2,13 +2,6 @@
 
 Como entusiasta da tecnologia, estou constantemente em busca de novos conhecimentos e adoro resolver problemas por meio da programação. Minha paixão é desenvolver soluções tecnológicas que melhorem a vida das pessoas. Fique à vontade para contribuir com ideias para meus projetos e não hesite em entrar em contato para networking.
 
-## 💼 Experiência
-
-- Desenvolvimento web utilizando Java e o Spring Framework
-- Banco de dados relacional com PostgreSQL e suas funcionalidades
-- Persistência de dados ORM utilizando Hibernate
-- Testes unitários e de integração com JUnit e Mockito
-
 ## 🔧 Tecnologias e Ferramentas
 
 - Linguagens de programação: ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white), ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
