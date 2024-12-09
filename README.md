@@ -28,22 +28,6 @@
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=yuri-italo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
---- 
-
-## 📜 Licenses & Certifications  
-
-### Amazon Web Services (AWS)  
-- **AWS Academy Graduate - AWS Academy Cloud Foundations**: [View Credential](https://www.credly.com/badges/5e77f555-ecde-4715-9908-5f0ba21fcc3b/linked_in_profile)  
-
-### Alura  
-- **Java and Object-Oriented Programming** | [View Credential](https://cursos.alura.com.br/degree/certificate/1d15ec50-18ae-472d-9a24-53ef6d466b4a)
-- **Spring Framework** | [View Credential](https://cursos.alura.com.br/degree/certificate/ee639444-3a41-44fc-a853-4a67a629e530)  
-- **Java Architecture and Design Projects** | [View Credential](https://cursos.alura.com.br/degree/certificate/ae50f58a-8553-45b9-a217-f6ecdc79012e) 
-- **Front-End Development** | [View Credential](https://cursos.alura.com.br/degree/certificate/83f5964e-d521-4ce1-9e88-ed2b0e95f61c)  
- 
-### DIO  
-- **Inter Java Developer** | [View Credential](https://www.dio.me/certificate/FAB56684/share)  
-
 ---
 
 ## 🤝 Let's Build Together
